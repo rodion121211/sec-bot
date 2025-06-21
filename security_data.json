@@ -1,0 +1,4103 @@
+{
+  "guild_configs": {
+    "1097629413711024189": {
+      "auto_ban_bots": false,
+      "auto_ban_new_accounts": false,
+      "new_account_days": 7,
+      "role_delete_punishment": "remove_roles",
+      "channel_delete_punishment": "remove_roles",
+      "logs_channel_id": null,
+      "audit_log_delay": 2,
+      "max_logs_history": 100,
+      "auto_kick_mass_ping": false,
+      "max_mentions": 10,
+      "auto_delete_invite_links": false,
+      "whitelist_users": [],
+      "protection_enabled": true,
+      "anti_spam_enabled": false,
+      "spam_message_count": 5,
+      "spam_time_window": 10,
+      "auto_mute_duration": 10,
+      "mass_ping_mute_duration": 10,
+      "protect_admin_roles": true,
+      "backup_channels": true,
+      "backup_roles": true
+    },
+    "1369967561218723910": {
+      "auto_ban_bots": false,
+      "auto_ban_new_accounts": false,
+      "new_account_days": 7,
+      "role_delete_punishment": "remove_roles",
+      "channel_delete_punishment": "remove_roles",
+      "logs_channel_id": null,
+      "audit_log_delay": 2,
+      "max_logs_history": 100,
+      "auto_kick_mass_ping": false,
+      "max_mentions": 10,
+      "auto_delete_invite_links": false,
+      "whitelist_users": [],
+      "protection_enabled": true,
+      "anti_spam_enabled": false,
+      "spam_message_count": 5,
+      "spam_time_window": 10,
+      "auto_mute_duration": 10,
+      "mass_ping_mute_duration": 10,
+      "protect_admin_roles": true,
+      "backup_channels": true,
+      "backup_roles": true
+    }
+  },
+  "restored_roles": {},
+  "security_logs": {},
+  "user_warnings": {},
+  "backup_data": {
+    "1369967561218723910": {
+      "channels": [],
+      "roles": [],
+      "full_backups": [
+        {
+          "server_name": "‹BETA› - Madrid Futebol RP — MXP 🕊👑",
+          "created_at": "2025-06-02T03:52:25.308916",
+          "channels": [
+            {
+              "name": "╰・🏆〃﹕serie-b-brasileiro",
+              "type": "text",
+              "position": 113,
+              "topic": null
+            },
+            {
+              "name": "│・🥅〃﹕partidas",
+              "type": "text",
+              "position": 100,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 205,
+              "topic": ""
+            },
+            {
+              "name": "│・⛳〃﹕gramado-canela",
+              "type": "text",
+              "position": 187,
+              "topic": null
+            },
+            {
+              "name": "╰・🔍〃﹕mirante",
+              "type": "text",
+              "position": 218,
+              "topic": null
+            },
+            {
+              "name": "│・📝〃﹕criar-influencer",
+              "type": "text",
+              "position": 36,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕trabalho-diario",
+              "type": "text",
+              "position": 20,
+              "topic": ""
+            },
+            {
+              "name": "│・🏖〃﹕praia-tambau",
+              "type": "text",
+              "position": 394,
+              "topic": null
+            },
+            {
+              "name": "╰・🏛〃﹕museu-pedras",
+              "type": "text",
+              "position": 247,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 40,
+              "topic": ""
+            },
+            {
+              "name": "│・🐦〃﹕twitter",
+              "type": "text",
+              "position": 74,
+              "topic": ""
+            },
+            {
+              "name": "「🥁」 │ ๖̶̶̶ζ͜͡BAHIA",
+              "type": "category",
+              "position": 16
+            },
+            {
+              "name": "│・🏛〃﹕museu-natureza",
+              "type": "text",
+              "position": 242,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕catedral-metropolitana",
+              "type": "text",
+              "position": 319,
+              "topic": null
+            },
+            {
+              "name": "│・📡〃﹕torre-tv",
+              "type": "text",
+              "position": 330,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕arena-mrv",
+              "type": "text",
+              "position": 135,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕capacidades",
+              "type": "text",
+              "position": 94,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕mundial-de-clubes",
+              "type": "text",
+              "position": 108,
+              "topic": null
+            },
+            {
+              "name": "│・📃〃﹕clubes-livres",
+              "type": "text",
+              "position": 51,
+              "topic": null
+            },
+            {
+              "name": "│・🐟〃﹕aquario-pantanal",
+              "type": "text",
+              "position": 241,
+              "topic": null
+            },
+            {
+              "name": "│・⛲〃﹕praça-principal",
+              "type": "text",
+              "position": 213,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕museu-imagem-som",
+              "type": "text",
+              "position": 290,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-oriente",
+              "type": "text",
+              "position": 354,
+              "topic": null
+            },
+            {
+              "name": "╰・🎨〃﹕casa-cultura",
+              "type": "text",
+              "position": 379,
+              "topic": null
+            },
+            {
+              "name": "│・📝〃﹕criar-policial",
+              "type": "text",
+              "position": 34,
+              "topic": null
+            },
+            {
+              "name": "│・🌹〃﹕lago-das-rosas",
+              "type": "text",
+              "position": 356,
+              "topic": null
+            },
+            {
+              "name": "╰・🕌〃﹕memorial-arabe",
+              "type": "text",
+              "position": 412,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕palacio-leoes",
+              "type": "text",
+              "position": 364,
+              "topic": null
+            },
+            {
+              "name": "│・⛩〃﹕praça-liberdade",
+              "type": "text",
+              "position": 203,
+              "topic": null
+            },
+            {
+              "name": "│・🏬〃﹕centro-integrado-cultura",
+              "type": "text",
+              "position": 224,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-culturas-dom-bosco",
+              "type": "text",
+              "position": 375,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕penedo-historico",
+              "type": "text",
+              "position": 284,
+              "topic": ""
+            },
+            {
+              "name": "│・🏆〃﹕copa-america",
+              "type": "text",
+              "position": 111,
+              "topic": null
+            },
+            {
+              "name": "│・🏡〃﹕jardim-botanico",
+              "type": "text",
+              "position": 180,
+              "topic": null
+            },
+            {
+              "name": "「❄」 │ ๖̶̶̶ζ͜͡PARANÁ",
+              "type": "category",
+              "position": 17
+            },
+            {
+              "name": "│・🌲〃﹕parque-ibira-puera",
+              "type": "text",
+              "position": 162,
+              "topic": null
+            },
+            {
+              "name": "╰・💐〃﹕jardins",
+              "type": "text",
+              "position": 170,
+              "topic": null
+            },
+            {
+              "name": "│・🏬〃﹕centro-historico",
+              "type": "text",
+              "position": 206,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕sambaqui-maracas",
+              "type": "text",
+              "position": 297,
+              "topic": null
+            },
+            {
+              "name": "│・🏬〃﹕centro-geodesico",
+              "type": "text",
+              "position": 240,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕feira-central",
+              "type": "text",
+              "position": 376,
+              "topic": null
+            },
+            {
+              "name": "╭・🤳〃﹕instagram",
+              "type": "text",
+              "position": 73,
+              "topic": ""
+            },
+            {
+              "name": "│・💳〃﹕patrocinadores",
+              "type": "text",
+              "position": 87,
+              "topic": null
+            },
+            {
+              "name": "│・🟣〃﹕tnt-sports",
+              "type": "text",
+              "position": 79,
+              "topic": ""
+            },
+            {
+              "name": "「💎」 │ ๖̶̶̶ζ͜͡VIPS",
+              "type": "category",
+              "position": 2
+            },
+            {
+              "name": "│・🏛〃﹕casa-nhozinho",
+              "type": "text",
+              "position": 361,
+              "topic": null
+            },
+            {
+              "name": "│・🎲〃﹕roll-perna",
+              "type": "text",
+              "position": 43,
+              "topic": null
+            },
+            {
+              "name": "│・📅〃﹕calendario-jogos",
+              "type": "text",
+              "position": 52,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕libertadores",
+              "type": "text",
+              "position": 107,
+              "topic": null
+            },
+            {
+              "name": "╭・🌪〃﹕ct-atletico-paranaense",
+              "type": "text",
+              "position": 145,
+              "topic": null
+            },
+            {
+              "name": "「👑」 │ ๖̶̶̶ζ͜͡SISTEMAS",
+              "type": "category",
+              "position": 10
+            },
+            {
+              "name": "╭・👦〃﹕ct-juventude",
+              "type": "text",
+              "position": 151,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕centro-historico-vitoria",
+              "type": "text",
+              "position": 339,
+              "topic": null
+            },
+            {
+              "name": "│・👑〃﹕prompts",
+              "type": "text",
+              "position": 63,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕catedral-se",
+              "type": "text",
+              "position": 167,
+              "topic": null
+            },
+            {
+              "name": "│・🐔〃﹕porto-galinhas",
+              "type": "text",
+              "position": 415,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-publico-poa",
+              "type": "text",
+              "position": 184,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-santa-roza",
+              "type": "text",
+              "position": 395,
+              "topic": null
+            },
+            {
+              "name": "│・🧧〃﹕apostas-jogo",
+              "type": "text",
+              "position": 99,
+              "topic": null
+            },
+            {
+              "name": "│・✈〃﹕viagens",
+              "type": "text",
+              "position": 98,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-sao-braz",
+              "type": "text",
+              "position": 385,
+              "topic": null
+            },
+            {
+              "name": "│・🚢〃﹕estacao-docas",
+              "type": "text",
+              "position": 389,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 292,
+              "topic": ""
+            },
+            {
+              "name": "「🏖」 │ ๖̶̶̶ζ͜͡CEARA",
+              "type": "category",
+              "position": 26
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 160,
+              "topic": ""
+            },
+            {
+              "name": "│・🔹〃﹕teatro-amazonas",
+              "type": "text",
+              "position": 304,
+              "topic": null
+            },
+            {
+              "name": "╭・📜〃﹕regras",
+              "type": "text",
+              "position": 45,
+              "topic": null
+            },
+            {
+              "name": "╭・🖌〃﹕atualizar-personagem",
+              "type": "text",
+              "position": 41,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕praia-guarapari",
+              "type": "text",
+              "position": 345,
+              "topic": null
+            },
+            {
+              "name": "│・⚡〃﹕template-servidor",
+              "type": "text",
+              "position": 56,
+              "topic": null
+            },
+            {
+              "name": "│・🌎〃﹕role-play",
+              "type": "text",
+              "position": 93,
+              "topic": null
+            },
+            {
+              "name": "│・⛲〃﹕fonte-tambirucu",
+              "type": "text",
+              "position": 365,
+              "topic": null
+            },
+            {
+              "name": "│・🏔〃﹕parque-pedra-azul",
+              "type": "text",
+              "position": 344,
+              "topic": null
+            },
+            {
+              "name": "│・🩺〃﹕medico",
+              "type": "text",
+              "position": 96,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 182,
+              "topic": ""
+            },
+            {
+              "name": "│・🏖〃﹕praia-camburi",
+              "type": "text",
+              "position": 338,
+              "topic": null
+            },
+            {
+              "name": "╭・🌅〃﹕ponta-seixas",
+              "type": "text",
+              "position": 392,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕opera-arame",
+              "type": "text",
+              "position": 404,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-municipal-curitiba",
+              "type": "text",
+              "position": 411,
+              "topic": null
+            },
+            {
+              "name": "│・🐟〃﹕aquario-natural",
+              "type": "text",
+              "position": 372,
+              "topic": null
+            },
+            {
+              "name": "│・🚦〃﹕chapa-da-guimaraes",
+              "type": "text",
+              "position": 239,
+              "topic": null
+            },
+            {
+              "name": "│・🏺〃﹕oficina-ceramica",
+              "type": "text",
+              "position": 419,
+              "topic": null
+            },
+            {
+              "name": "│・🐷〃﹕ct-palmeiras",
+              "type": "text",
+              "position": 123,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕recopa",
+              "type": "text",
+              "position": 112,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕copa-do-brasil",
+              "type": "text",
+              "position": 106,
+              "topic": null
+            },
+            {
+              "name": "│・🛒〃﹕mercado-porto",
+              "type": "text",
+              "position": 244,
+              "topic": null
+            },
+            {
+              "name": "「🕊」 │ ๖̶̶̶ζ͜͡INFORMAÇÕES",
+              "type": "category",
+              "position": 5
+            },
+            {
+              "name": "│・🌺〃﹕jardim-botanico-curitiba",
+              "type": "text",
+              "position": 405,
+              "topic": null
+            },
+            {
+              "name": "╰・🗣〃﹕pedir-parceria",
+              "type": "text",
+              "position": 57,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 136,
+              "topic": ""
+            },
+            {
+              "name": "╭・🏛〃﹕centro-historico-sao-luis",
+              "type": "text",
+              "position": 359,
+              "topic": null
+            },
+            {
+              "name": "│・🎨〃﹕centro-dragao-mar",
+              "type": "text",
+              "position": 316,
+              "topic": null
+            },
+            {
+              "name": "│・🤖〃﹕parque-zoobotanico",
+              "type": "text",
+              "position": 300,
+              "topic": null
+            },
+            {
+              "name": "│・🚩〃﹕nacionalidades",
+              "type": "text",
+              "position": 84,
+              "topic": null
+            },
+            {
+              "name": "│・🏺〃﹕parque-nacoes-indigenas",
+              "type": "text",
+              "position": 374,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 156,
+              "topic": ""
+            },
+            {
+              "name": "│・🎭〃﹕teatro-santa-isabel",
+              "type": "text",
+              "position": 420,
+              "topic": null
+            },
+            {
+              "name": "│・🌊〃﹕praia-gunga",
+              "type": "text",
+              "position": 283,
+              "topic": ""
+            },
+            {
+              "name": "│・📝〃﹕criar-jornalista",
+              "type": "text",
+              "position": 38,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕alfredo-jaconni",
+              "type": "text",
+              "position": 152,
+              "topic": null
+            },
+            {
+              "name": "│・👗〃﹕mercado-modelo",
+              "type": "text",
+              "position": 232,
+              "topic": null
+            },
+            {
+              "name": "│・💦〃﹕pantanal",
+              "type": "text",
+              "position": 238,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕mineirão",
+              "type": "text",
+              "position": 138,
+              "topic": null
+            },
+            {
+              "name": "╭・🐓〃﹕ct-atletico-mg",
+              "type": "text",
+              "position": 134,
+              "topic": null
+            },
+            {
+              "name": "「🏛」 │ ๖̶̶̶ζ͜͡PERNAMBUCO",
+              "type": "category",
+              "position": 35
+            },
+            {
+              "name": "│・🔐〃﹕limites",
+              "type": "text",
+              "position": 50,
+              "topic": null
+            },
+            {
+              "name": "│・🍏〃﹕whatsapp",
+              "type": "text",
+              "position": 77,
+              "topic": ""
+            },
+            {
+              "name": "│・👁〃﹕museu-oscar-niemeyer",
+              "type": "text",
+              "position": 406,
+              "topic": null
+            },
+            {
+              "name": "│・🌉〃﹕ponte-hercilio-luz",
+              "type": "text",
+              "position": 215,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 402,
+              "topic": null
+            },
+            {
+              "name": "│・🤕〃﹕lesoes",
+              "type": "text",
+              "position": 91,
+              "topic": null
+            },
+            {
+              "name": "│・🚨〃﹕avisos",
+              "type": "text",
+              "position": 48,
+              "topic": null
+            },
+            {
+              "name": "│・🦿〃﹕mudar-posição",
+              "type": "text",
+              "position": 102,
+              "topic": null
+            },
+            {
+              "name": "「☀」 │ ๖̶̶̶ζ͜͡CEARÁ",
+              "type": "category",
+              "position": 15
+            },
+            {
+              "name": "「🫎」 │ ๖̶̶̶ζ͜͡SANTA CATARINA",
+              "type": "category",
+              "position": 19
+            },
+            {
+              "name": "│・🏝〃﹕ilha-trindade",
+              "type": "text",
+              "position": 343,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕pinacoteca",
+              "type": "text",
+              "position": 163,
+              "topic": ""
+            },
+            {
+              "name": "│・🎵〃﹕museu-sacaca",
+              "type": "text",
+              "position": 295,
+              "topic": null
+            },
+            {
+              "name": "╰・🕌〃﹕memorial-arabe",
+              "type": "text",
+              "position": 258,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕museu-rio-grande-sul",
+              "type": "text",
+              "position": 190,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 248,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕museu-cultura-popular",
+              "type": "text",
+              "position": 396,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕arena-da-baixada",
+              "type": "text",
+              "position": 146,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 325,
+              "topic": null
+            },
+            {
+              "name": "│・🎢〃﹕beach-park",
+              "type": "text",
+              "position": 323,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-alvaro-carvalho",
+              "type": "text",
+              "position": 221,
+              "topic": null
+            },
+            {
+              "name": "│・🏘〃﹕vila-madalena",
+              "type": "text",
+              "position": 165,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕sao-januario",
+              "type": "text",
+              "position": 130,
+              "topic": null
+            },
+            {
+              "name": "「🏛」 │ ๖̶̶̶ζ͜͡GOIAS",
+              "type": "category",
+              "position": 29
+            },
+            {
+              "name": "│・🔹〃﹕encontro-aguas",
+              "type": "text",
+              "position": 305,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 122,
+              "topic": ""
+            },
+            {
+              "name": "│・🏪〃﹕mercado-sao-jose",
+              "type": "text",
+              "position": 421,
+              "topic": null
+            },
+            {
+              "name": "╭・🦸〃﹕boas-vindas",
+              "type": "text",
+              "position": 12,
+              "topic": null
+            },
+            {
+              "name": "「🏖」 │ ๖̶̶̶ζ͜͡ALAGOAS",
+              "type": "category",
+              "position": 23
+            },
+            {
+              "name": "│・🎭〃﹕teatro-palacio-artes",
+              "type": "text",
+              "position": 202,
+              "topic": null
+            },
+            {
+              "name": "│・🔩〃﹕melhorias",
+              "type": "text",
+              "position": 89,
+              "topic": null
+            },
+            {
+              "name": "rules",
+              "type": "text",
+              "position": 0,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 314,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕parque-ponta-negra",
+              "type": "text",
+              "position": 311,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕palacio-negro",
+              "type": "text",
+              "position": 308,
+              "topic": null
+            },
+            {
+              "name": "╰・🏛〃﹕museu-ceara",
+              "type": "text",
+              "position": 324,
+              "topic": null
+            },
+            {
+              "name": "「📜 」 │ ๖̶̶̶ζ͜͡FICHA",
+              "type": "category",
+              "position": 4
+            },
+            {
+              "name": "「💻」 │ ๖̶̶̶ζ͜͡REDES SOCIAIS",
+              "type": "category",
+              "position": 9
+            },
+            {
+              "name": "│・🏪〃﹕mercado-local",
+              "type": "text",
+              "position": 210,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕parque-nacional-emas",
+              "type": "text",
+              "position": 352,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 171,
+              "topic": ""
+            },
+            {
+              "name": "│・🌉〃﹕paulista",
+              "type": "text",
+              "position": 169,
+              "topic": null
+            },
+            {
+              "name": "│・🏠〃﹕casa-cultura-mario-quintana",
+              "type": "text",
+              "position": 185,
+              "topic": null
+            },
+            {
+              "name": "╰・⛪〃﹕igreja-sao-francisco",
+              "type": "text",
+              "position": 204,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕mosteiro-sao-bento",
+              "type": "text",
+              "position": 400,
+              "topic": null
+            },
+            {
+              "name": "╭・🗂〃﹕molde-jogador",
+              "type": "text",
+              "position": 24,
+              "topic": null
+            },
+            {
+              "name": "╰・🗼〃﹕farol-cabo-branco",
+              "type": "text",
+              "position": 401,
+              "topic": null
+            },
+            {
+              "name": "│・🏰〃﹕palacio-liberdade",
+              "type": "text",
+              "position": 198,
+              "topic": null
+            },
+            {
+              "name": "│・🎉〃﹕eventos",
+              "type": "text",
+              "position": 46,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-goiania",
+              "type": "text",
+              "position": 353,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕marco-zero-equador",
+              "type": "text",
+              "position": 294,
+              "topic": null
+            },
+            {
+              "name": "「🤝」 │ ๖̶̶̶ζ͜͡PARCERIAS",
+              "type": "category",
+              "position": 6
+            },
+            {
+              "name": "╰・🏘〃﹕morro-sao-paulo",
+              "type": "text",
+              "position": 237,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕centro-historico",
+              "type": "text",
+              "position": 161,
+              "topic": null
+            },
+            {
+              "name": "│・📜〃﹕histrico-verbas",
+              "type": "text",
+              "position": 81,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕palacio-anchieta",
+              "type": "text",
+              "position": 342,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-sao-pedro",
+              "type": "text",
+              "position": 189,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-homem-nordeste",
+              "type": "text",
+              "position": 422,
+              "topic": null
+            },
+            {
+              "name": "╰・📝〃﹕criar-patrocinador",
+              "type": "text",
+              "position": 39,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-central-pb",
+              "type": "text",
+              "position": 398,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-principal",
+              "type": "text",
+              "position": 207,
+              "topic": null
+            },
+            {
+              "name": "│・🛒〃﹕mercado-publico-floripa",
+              "type": "text",
+              "position": 219,
+              "topic": null
+            },
+            {
+              "name": "╭・🏛〃﹕cidade-goias",
+              "type": "text",
+              "position": 348,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 413,
+              "topic": null
+            },
+            {
+              "name": "│・🟢〃﹕globo-esporte",
+              "type": "text",
+              "position": 80,
+              "topic": ""
+            },
+            {
+              "name": "│・💦〃﹕cataratas-iguacu",
+              "type": "text",
+              "position": 249,
+              "topic": ""
+            },
+            {
+              "name": "│・🗂〃﹕molde-influence",
+              "type": "text",
+              "position": 28,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕neo-quimica-arena",
+              "type": "text",
+              "position": 115,
+              "topic": null
+            },
+            {
+              "name": "╭・🌿〃﹕pantanal-sul",
+              "type": "text",
+              "position": 370,
+              "topic": null
+            },
+            {
+              "name": "│・🏤〃﹕catedral",
+              "type": "text",
+              "position": 209,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕copa-sul-americana",
+              "type": "text",
+              "position": 109,
+              "topic": null
+            },
+            {
+              "name": "│・🏰〃﹕forte-presepio",
+              "type": "text",
+              "position": 388,
+              "topic": null
+            },
+            {
+              "name": "│・🎟〃﹕bilheteria",
+              "type": "text",
+              "position": 101,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 116,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕palacio-alvorada",
+              "type": "text",
+              "position": 328,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 336,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕largo-ordem",
+              "type": "text",
+              "position": 409,
+              "topic": null
+            },
+            {
+              "name": "│・🇭🇺〃﹕ct-fluminense",
+              "type": "text",
+              "position": 126,
+              "topic": null
+            },
+            {
+              "name": "│・🛝〃﹕parque-central",
+              "type": "text",
+              "position": 208,
+              "topic": null
+            },
+            {
+              "name": "╭・💦〃﹕cataratas-iguacu",
+              "type": "text",
+              "position": 403,
+              "topic": null
+            },
+            {
+              "name": "│・🌺〃﹕jardim-botanico-curitiba",
+              "type": "text",
+              "position": 251,
+              "topic": ""
+            },
+            {
+              "name": "│・📄〃﹕seja-staff",
+              "type": "text",
+              "position": 60,
+              "topic": null
+            },
+            {
+              "name": "「⭐」 │ ๖̶̶̶ζ͜͡STAFFS",
+              "type": "category",
+              "position": 1
+            },
+            {
+              "name": "「⭐」 │ ๖̶̶̶ζ͜͡CAMPEONATOS",
+              "type": "category",
+              "position": 11
+            },
+            {
+              "name": "│・🌳〃﹕parque-sólon-lucena",
+              "type": "text",
+              "position": 399,
+              "topic": null
+            },
+            {
+              "name": "╭・🧠〃﹕habilidades",
+              "type": "text",
+              "position": 83,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕largo-ordem",
+              "type": "text",
+              "position": 255,
+              "topic": ""
+            },
+            {
+              "name": "│・🗞〃﹕reporter",
+              "type": "text",
+              "position": 95,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕vila-belmiro",
+              "type": "text",
+              "position": 121,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕palacio-planalto",
+              "type": "text",
+              "position": 331,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕praia-joaquina",
+              "type": "text",
+              "position": 216,
+              "topic": null
+            },
+            {
+              "name": "│・🔻〃﹕youtube",
+              "type": "text",
+              "position": 78,
+              "topic": ""
+            },
+            {
+              "name": "╰・🔝〃﹕level-up",
+              "type": "text",
+              "position": 54,
+              "topic": null
+            },
+            {
+              "name": "│・🏋🏿〃﹕treinamento",
+              "type": "text",
+              "position": 92,
+              "topic": null
+            },
+            {
+              "name": "│・📝〃﹕criar-medico",
+              "type": "text",
+              "position": 37,
+              "topic": null
+            },
+            {
+              "name": "「🌅」 │ ๖̶̶̶ζ͜͡PARAIBA",
+              "type": "category",
+              "position": 33
+            },
+            {
+              "name": "│・🗂〃﹕molde-tecnico",
+              "type": "text",
+              "position": 25,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 391,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕arena-pantanal",
+              "type": "text",
+              "position": 243,
+              "topic": null
+            },
+            {
+              "name": "│・🏘〃﹕santa-teresa",
+              "type": "text",
+              "position": 177,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 369,
+              "topic": null
+            },
+            {
+              "name": "│・❓〃﹕dúvidas",
+              "type": "text",
+              "position": 59,
+              "topic": null
+            },
+            {
+              "name": "╰・🚀〃﹕alcantara",
+              "type": "text",
+              "position": 368,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-municipal",
+              "type": "text",
+              "position": 164,
+              "topic": null
+            },
+            {
+              "name": "╭・🏆〃﹕brasileirão",
+              "type": "text",
+              "position": 105,
+              "topic": null
+            },
+            {
+              "name": "│・🇵🇷〃﹕porto-seguro",
+              "type": "text",
+              "position": 235,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕casa-opera",
+              "type": "text",
+              "position": 309,
+              "topic": null
+            },
+            {
+              "name": "│・🦁〃﹕vitoria",
+              "type": "text",
+              "position": 143,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 347,
+              "topic": null
+            },
+            {
+              "name": "│・🏢〃﹕zona-comercial",
+              "type": "text",
+              "position": 215,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-emilio-goeldi",
+              "type": "text",
+              "position": 383,
+              "topic": null
+            },
+            {
+              "name": "│・🌐〃﹕atualizações",
+              "type": "text",
+              "position": 47,
+              "topic": null
+            },
+            {
+              "name": "│・🎗〃﹕ouro-preto",
+              "type": "text",
+              "position": 194,
+              "topic": null
+            },
+            {
+              "name": "│・🐋〃﹕ct-santos",
+              "type": "text",
+              "position": 120,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museum-theo-brandao",
+              "type": "text",
+              "position": 286,
+              "topic": ""
+            },
+            {
+              "name": "│・🎨〃﹕instituto-brennand",
+              "type": "text",
+              "position": 416,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕praia-calhau",
+              "type": "text",
+              "position": 367,
+              "topic": null
+            },
+            {
+              "name": "╭・🏛〃﹕recife-antigo",
+              "type": "text",
+              "position": 414,
+              "topic": null
+            },
+            {
+              "name": "╭・🏖〃﹕praia-iracema",
+              "type": "text",
+              "position": 315,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕pirenopolis",
+              "type": "text",
+              "position": 351,
+              "topic": null
+            },
+            {
+              "name": "「🏰」 │ ๖̶̶̶ζ͜͡AMAPA",
+              "type": "category",
+              "position": 24
+            },
+            {
+              "name": "│・🏟〃﹕arena-pantanal",
+              "type": "text",
+              "position": 148,
+              "topic": null
+            },
+            {
+              "name": "│・🌊〃﹕copacabana",
+              "type": "text",
+              "position": 168,
+              "topic": null
+            },
+            {
+              "name": "╭・🚀〃﹕boosters",
+              "type": "text",
+              "position": 22,
+              "topic": null
+            },
+            {
+              "name": "│・🦾〃﹕personalidade",
+              "type": "text",
+              "position": 103,
+              "topic": null
+            },
+            {
+              "name": "╰・🔹〃﹕instituto-historico",
+              "type": "text",
+              "position": 291,
+              "topic": ""
+            },
+            {
+              "name": "╭・🍀〃﹕ct-cuiaba",
+              "type": "text",
+              "position": 147,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-paz",
+              "type": "text",
+              "position": 382,
+              "topic": null
+            },
+            {
+              "name": "│・🐚〃﹕perolas",
+              "type": "text",
+              "position": 66,
+              "topic": null
+            },
+            {
+              "name": "│・🏺〃﹕museu-indio",
+              "type": "text",
+              "position": 310,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕memorial-cultura-indigena",
+              "type": "text",
+              "position": 378,
+              "topic": null
+            },
+            {
+              "name": "╰・🍬〃﹕barra-da-tijuca",
+              "type": "text",
+              "position": 181,
+              "topic": null
+            },
+            {
+              "name": "│・🇾🇪〃﹕ct-sao-paulo",
+              "type": "text",
+              "position": 117,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕praia-pajucara",
+              "type": "text",
+              "position": 289,
+              "topic": ""
+            },
+            {
+              "name": "│・📱〃﹕tik-tok",
+              "type": "text",
+              "position": 75,
+              "topic": ""
+            },
+            {
+              "name": "│・🎭〃﹕teatro-guaira",
+              "type": "text",
+              "position": 410,
+              "topic": null
+            },
+            {
+              "name": "│・📝〃﹕criar-tecnico",
+              "type": "text",
+              "position": 35,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 358,
+              "topic": null
+            },
+            {
+              "name": "│・🏠〃﹕casa-jorge-amado",
+              "type": "text",
+              "position": 231,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕inconfidencia-museu",
+              "type": "text",
+              "position": 195,
+              "topic": null
+            },
+            {
+              "name": "「🎭」 │ ๖̶̶̶ζ͜͡AMAZONAS",
+              "type": "category",
+              "position": 25
+            },
+            {
+              "name": "╭・🔹〃﹕fortaleza-sao-jose",
+              "type": "text",
+              "position": 293,
+              "topic": ""
+            },
+            {
+              "name": "╭・🥅〃﹕dream-team",
+              "type": "text",
+              "position": 69,
+              "topic": ""
+            },
+            {
+              "name": "│・🎭〃﹕teatro-carlos-gomes",
+              "type": "text",
+              "position": 341,
+              "topic": null
+            },
+            {
+              "name": "╭・🦅〃﹕ct-corinthians",
+              "type": "text",
+              "position": 114,
+              "topic": null
+            },
+            {
+              "name": "│・🌺〃﹕jardim-botanico",
+              "type": "text",
+              "position": 334,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕catedral-metropolitana",
+              "type": "text",
+              "position": 287,
+              "topic": ""
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 32,
+              "topic": ""
+            },
+            {
+              "name": "╭・🦩〃﹕ct-flamengo",
+              "type": "text",
+              "position": 125,
+              "topic": null
+            },
+            {
+              "name": "「🚜」 │ ๖̶̶̶ζ͜͡MATO GROSSO",
+              "type": "category",
+              "position": 18
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 153,
+              "topic": ""
+            },
+            {
+              "name": "│・🚦〃﹕fortaleza-santa-cruz",
+              "type": "text",
+              "position": 222,
+              "topic": null
+            },
+            {
+              "name": "│・🗽〃﹕cristo-redentor",
+              "type": "text",
+              "position": 172,
+              "topic": null
+            },
+            {
+              "name": "╭・🌟〃﹕pedir-cargos",
+              "type": "text",
+              "position": 58,
+              "topic": null
+            },
+            {
+              "name": "│・🚦〃﹕bairro-historico",
+              "type": "text",
+              "position": 217,
+              "topic": null
+            },
+            {
+              "name": "│・🗂〃﹕molde-medico",
+              "type": "text",
+              "position": 26,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕maracanã",
+              "type": "text",
+              "position": 127,
+              "topic": null
+            },
+            {
+              "name": "security-logs",
+              "type": "text",
+              "position": 427,
+              "topic": "🔒 Canal de logs de segurança automáticos"
+            },
+            {
+              "name": "│・🛒〃﹕mercado-central-bh",
+              "type": "text",
+              "position": 199,
+              "topic": null
+            },
+            {
+              "name": "│・🏢〃﹕catedral-metropolitana",
+              "type": "text",
+              "position": 191,
+              "topic": ""
+            },
+            {
+              "name": "│・🏖〃﹕copacabana",
+              "type": "text",
+              "position": 174,
+              "topic": null
+            },
+            {
+              "name": "╰・🏖〃﹕praia-ponta-negra",
+              "type": "text",
+              "position": 313,
+              "topic": null
+            },
+            {
+              "name": "│・👻〃﹕mxp-team",
+              "type": "text",
+              "position": 70,
+              "topic": ""
+            },
+            {
+              "name": "security-logs",
+              "type": "text",
+              "position": 424,
+              "topic": "🔒 Canal de logs de segurança automáticos"
+            },
+            {
+              "name": "│・✨〃﹕subir-fintas",
+              "type": "text",
+              "position": 97,
+              "topic": null
+            },
+            {
+              "name": "╰・📢〃﹕chamar-rp",
+              "type": "text",
+              "position": 67,
+              "topic": null
+            },
+            {
+              "name": "│・🎵〃﹕museu-minerais",
+              "type": "text",
+              "position": 302,
+              "topic": null
+            },
+            {
+              "name": "│・🦊〃﹕ct-cruzeiro",
+              "type": "text",
+              "position": 137,
+              "topic": null
+            },
+            {
+              "name": "╰・🏘〃﹕briqueredenção",
+              "type": "text",
+              "position": 193,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-praia-grande",
+              "type": "text",
+              "position": 363,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 236,
+              "topic": ""
+            },
+            {
+              "name": "╰・💻〃﹕influencer-digital",
+              "type": "text",
+              "position": 104,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 226,
+              "topic": ""
+            },
+            {
+              "name": "│・🗞〃﹕enquetes",
+              "type": "text",
+              "position": 49,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕mangal-garca",
+              "type": "text",
+              "position": 386,
+              "topic": null
+            },
+            {
+              "name": "「💛」 │ ๖̶̶̶ζ͜͡SUPORTE",
+              "type": "category",
+              "position": 7
+            },
+            {
+              "name": "│・🏬〃﹕centro-historic-oporto-alegre",
+              "type": "text",
+              "position": 183,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 119,
+              "topic": ""
+            },
+            {
+              "name": "│・🎲〃﹕roll-finta",
+              "type": "text",
+              "position": 42,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 128,
+              "topic": ""
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 68,
+              "topic": ""
+            },
+            {
+              "name": "│・⛪〃﹕basilica-nazare",
+              "type": "text",
+              "position": 384,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕bosque-ciencia",
+              "type": "text",
+              "position": 307,
+              "topic": null
+            },
+            {
+              "name": "│・♨〃﹕caldas-novas",
+              "type": "text",
+              "position": 350,
+              "topic": null
+            },
+            {
+              "name": "│・⛰〃﹕ct-vasco",
+              "type": "text",
+              "position": 129,
+              "topic": null
+            },
+            {
+              "name": "╰・🌊〃﹕lago-paranoa",
+              "type": "text",
+              "position": 335,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-arthur-azevedo",
+              "type": "text",
+              "position": 362,
+              "topic": null
+            },
+            {
+              "name": "│・🌊〃﹕lagoa-mundau",
+              "type": "text",
+              "position": 285,
+              "topic": ""
+            },
+            {
+              "name": "╭・〃﹕chat-staff",
+              "type": "text",
+              "position": 15,
+              "topic": ""
+            },
+            {
+              "name": "│・🏛〃﹕centro-cultural-palacio",
+              "type": "text",
+              "position": 312,
+              "topic": null
+            },
+            {
+              "name": "│・📸〃﹕midia",
+              "type": "text",
+              "position": 65,
+              "topic": null
+            },
+            {
+              "name": "│・💱〃﹕transferencias",
+              "type": "text",
+              "position": 88,
+              "topic": null
+            },
+            {
+              "name": "│・🌊〃﹕praia-futuro",
+              "type": "text",
+              "position": 320,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕beira-rio",
+              "type": "text",
+              "position": 158,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕theatro-jose-alencar",
+              "type": "text",
+              "position": 318,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕jericoacoara",
+              "type": "text",
+              "position": 321,
+              "topic": null
+            },
+            {
+              "name": "security-logs",
+              "type": "text",
+              "position": 425,
+              "topic": "🔒 Canal de logs de segurança automáticos"
+            },
+            {
+              "name": "╭・🌟〃﹕ct-criciuma",
+              "type": "text",
+              "position": 149,
+              "topic": null
+            },
+            {
+              "name": "│・⚖〃﹕supremo-tribunal",
+              "type": "text",
+              "position": 332,
+              "topic": null
+            },
+            {
+              "name": "│・🔥〃﹕ct-botafogo",
+              "type": "text",
+              "position": 132,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕parque-tangua",
+              "type": "text",
+              "position": 253,
+              "topic": ""
+            },
+            {
+              "name": "│・🏟〃﹕arena-castelão",
+              "type": "text",
+              "position": 141,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕directory-loritta",
+              "type": "text",
+              "position": 17,
+              "topic": ""
+            },
+            {
+              "name": "│・〃﹕directory-dyno",
+              "type": "text",
+              "position": 18,
+              "topic": null
+            },
+            {
+              "name": "「🏨」 │ ๖̶̶̶ζ͜͡RIO GRANDE DO SUL",
+              "type": "category",
+              "position": 20
+            },
+            {
+              "name": "Callzin",
+              "type": "voice",
+              "position": 0
+            },
+            {
+              "name": "╰・🗂〃﹕molde-juiz",
+              "type": "text",
+              "position": 31,
+              "topic": null
+            },
+            {
+              "name": "│・⚠〃﹕tutorial",
+              "type": "text",
+              "position": 13,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕mercado-adolpho-lisboa",
+              "type": "text",
+              "position": 306,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-central",
+              "type": "text",
+              "position": 317,
+              "topic": null
+            },
+            {
+              "name": "「🚀」 │ ๖̶̶̶ζ͜͡IMPULSOS",
+              "type": "category",
+              "position": 3
+            },
+            {
+              "name": "│・🎭〃﹕teatro-municipal",
+              "type": "text",
+              "position": 212,
+              "topic": null
+            },
+            {
+              "name": "│・🦋〃﹕bioparque-pantanal",
+              "type": "text",
+              "position": 377,
+              "topic": null
+            },
+            {
+              "name": "╰・🏯〃﹕casa-memoria",
+              "type": "text",
+              "position": 225,
+              "topic": null
+            },
+            {
+              "name": "│・🎨〃﹕mercado-artesanato",
+              "type": "text",
+              "position": 288,
+              "topic": ""
+            },
+            {
+              "name": "│・⛩〃﹕pelourinho",
+              "type": "text",
+              "position": 227,
+              "topic": null
+            },
+            {
+              "name": "╰・🐀〃﹕poketwo",
+              "type": "text",
+              "position": 72,
+              "topic": ""
+            },
+            {
+              "name": "│・⛱〃﹕lapa",
+              "type": "text",
+              "position": 176,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕nilton-santos",
+              "type": "text",
+              "position": 133,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕casa-folclore",
+              "type": "text",
+              "position": 298,
+              "topic": null
+            },
+            {
+              "name": "╰・👤〃﹕aparencia",
+              "type": "text",
+              "position": 44,
+              "topic": null
+            },
+            {
+              "name": "│・🌟〃﹕marco-zero",
+              "type": "text",
+              "position": 418,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕canoa-quebrada",
+              "type": "text",
+              "position": 322,
+              "topic": null
+            },
+            {
+              "name": "│・🗂〃﹕molde-patrocinador",
+              "type": "text",
+              "position": 30,
+              "topic": null
+            },
+            {
+              "name": "security-logs",
+              "type": "text",
+              "position": 426,
+              "topic": "🔒 Canal de logs de segurança automáticos"
+            },
+            {
+              "name": "│・🇯🇵〃﹕liberdade",
+              "type": "text",
+              "position": 166,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕praia-porto-gale",
+              "type": "text",
+              "position": 230,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕igreja-bon-fim",
+              "type": "text",
+              "position": 233,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 380,
+              "topic": null
+            },
+            {
+              "name": "│・🤖〃﹕comandos",
+              "type": "text",
+              "position": 64,
+              "topic": null
+            },
+            {
+              "name": "「🏛」 │ ๖̶̶̶ζ͜͡MARANHAO",
+              "type": "category",
+              "position": 30
+            },
+            {
+              "name": "│・👾〃﹕mudae",
+              "type": "text",
+              "position": 71,
+              "topic": null
+            },
+            {
+              "name": "│・🏬〃﹕florian-opolis-centro",
+              "type": "text",
+              "position": 214,
+              "topic": null
+            },
+            {
+              "name": "│・🤩〃﹕fama",
+              "type": "text",
+              "position": 90,
+              "topic": null
+            },
+            {
+              "name": "│・🏪〃﹕mercado-municipal-curitiba",
+              "type": "text",
+              "position": 257,
+              "topic": ""
+            },
+            {
+              "name": "╭・🏛〃﹕congresso-nacional",
+              "type": "text",
+              "position": 326,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕morumbis",
+              "type": "text",
+              "position": 118,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕parque-tangua",
+              "type": "text",
+              "position": 407,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-cafua-mercadores",
+              "type": "text",
+              "position": 366,
+              "topic": null
+            },
+            {
+              "name": "│・🥯〃﹕pão-de-açucar",
+              "type": "text",
+              "position": 173,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕orla-macapa",
+              "type": "text",
+              "position": 296,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 211,
+              "topic": ""
+            },
+            {
+              "name": "╰・🍀〃﹕recompensas",
+              "type": "text",
+              "position": 23,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕directory-money",
+              "type": "text",
+              "position": 19,
+              "topic": null
+            },
+            {
+              "name": "│・🌳〃﹕parque-farro-upilha",
+              "type": "text",
+              "position": 188,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 281,
+              "topic": ""
+            },
+            {
+              "name": "│・🚨〃﹕farol-barra",
+              "type": "text",
+              "position": 229,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕casa-polvora",
+              "type": "text",
+              "position": 397,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-mineiro-logia",
+              "type": "text",
+              "position": 201,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-nacional",
+              "type": "text",
+              "position": 333,
+              "topic": null
+            },
+            {
+              "name": "│・🎓〃﹕setor-universitario",
+              "type": "text",
+              "position": 355,
+              "topic": null
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 131,
+              "topic": ""
+            },
+            {
+              "name": "│・🥯〃﹕pao-com-açucar-mg",
+              "type": "text",
+              "position": 196,
+              "topic": null
+            },
+            {
+              "name": "│・🇦🇹〃﹕ct-internacional",
+              "type": "text",
+              "position": 157,
+              "topic": null
+            },
+            {
+              "name": "│・🏞〃﹕lagoa-rodrigo",
+              "type": "text",
+              "position": 179,
+              "topic": null
+            },
+            {
+              "name": "「🤍」 │ ๖̶̶̶ζ͜͡RECEPÇÃO",
+              "type": "category",
+              "position": 0
+            },
+            {
+              "name": "「🌍」 │ ๖̶̶̶ζ͜͡COMUNIDADE",
+              "type": "category",
+              "position": 8
+            },
+            {
+              "name": "│・🏛〃﹕memorial-jk",
+              "type": "text",
+              "position": 329,
+              "topic": null
+            },
+            {
+              "name": "│・🗂〃﹕molde-jornalista",
+              "type": "text",
+              "position": 29,
+              "topic": null
+            },
+            {
+              "name": "│・👁〃﹕museu-oscar-niemeyer",
+              "type": "text",
+              "position": 252,
+              "topic": ""
+            },
+            {
+              "name": "│・🚦〃﹕ruas",
+              "type": "text",
+              "position": 234,
+              "topic": null
+            },
+            {
+              "name": "│・🚇〃﹕usinagaso-metro",
+              "type": "text",
+              "position": 186,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕comandos-staff",
+              "type": "text",
+              "position": 16,
+              "topic": ""
+            },
+            {
+              "name": "╭・💤〃﹕ct-bahia",
+              "type": "text",
+              "position": 142,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-victor-meirelles",
+              "type": "text",
+              "position": 220,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕opera-arame",
+              "type": "text",
+              "position": 250,
+              "topic": ""
+            },
+            {
+              "name": "│・🏟〃﹕allianz-parque",
+              "type": "text",
+              "position": 124,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕casa-cultura",
+              "type": "text",
+              "position": 417,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕arena-fonte-nova",
+              "type": "text",
+              "position": 144,
+              "topic": null
+            },
+            {
+              "name": "│・〃﹕maracan-a",
+              "type": "text",
+              "position": 178,
+              "topic": null
+            },
+            {
+              "name": "│・🎭〃﹕teatro-guaira",
+              "type": "text",
+              "position": 256,
+              "topic": ""
+            },
+            {
+              "name": "│・🏞〃﹕lagoa-conceição",
+              "type": "text",
+              "position": 223,
+              "topic": null
+            },
+            {
+              "name": "│・⛪〃﹕catedral-brasilia",
+              "type": "text",
+              "position": 327,
+              "topic": null
+            },
+            {
+              "name": "「🏪」 │ ๖̶̶̶ζ͜͡PARA",
+              "type": "category",
+              "position": 32
+            },
+            {
+              "name": "「🧀」 │ ๖̶̶̶ζ͜͡MINAS GERAIS",
+              "type": "category",
+              "position": 14
+            },
+            {
+              "name": "│・👴〃﹕ct-ceara",
+              "type": "text",
+              "position": 140,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕museu-vale",
+              "type": "text",
+              "position": 340,
+              "topic": null
+            },
+            {
+              "name": "│・🏖〃﹕ipanema",
+              "type": "text",
+              "position": 175,
+              "topic": null
+            },
+            {
+              "name": "│・⌛〃﹕time-skip",
+              "type": "text",
+              "position": 53,
+              "topic": null
+            },
+            {
+              "name": "╰・〃﹕avisos-staff",
+              "type": "text",
+              "position": 21,
+              "topic": ""
+            },
+            {
+              "name": "❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 192,
+              "topic": ""
+            },
+            {
+              "name": "│・🔹〃﹕centro-cultural",
+              "type": "text",
+              "position": 299,
+              "topic": null
+            },
+            {
+              "name": "╭・🦁〃﹕ct-fortaleza",
+              "type": "text",
+              "position": 139,
+              "topic": null
+            },
+            {
+              "name": "╭・🤝〃﹕parcerias",
+              "type": "text",
+              "position": 55,
+              "topic": null
+            },
+            {
+              "name": "「🪖」 │ ๖̶̶̶ζ͜͡RIO DE JANEIRO",
+              "type": "category",
+              "position": 13
+            },
+            {
+              "name": "╭・🏪〃﹕ver-o-peso",
+              "type": "text",
+              "position": 381,
+              "topic": null
+            },
+            {
+              "name": "「🏛」 │ ๖̶̶̶ζ͜͡DISTRITO FEDERAL",
+              "type": "category",
+              "position": 27
+            },
+            {
+              "name": "│・💰〃﹕saf",
+              "type": "text",
+              "position": 86,
+              "topic": null
+            },
+            {
+              "name": "「🌿」 │ ๖̶̶̶ζ͜͡MATO GROSSO DO SUL",
+              "type": "category",
+              "position": 31
+            },
+            {
+              "name": "╭・🇧🇷〃﹕chat-geral",
+              "type": "text",
+              "position": 62,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕arena-do-gremio",
+              "type": "text",
+              "position": 155,
+              "topic": null
+            },
+            {
+              "name": "╭・📝〃﹕criar-jogador",
+              "type": "text",
+              "position": 33,
+              "topic": null
+            },
+            {
+              "name": "╭・⛪〃﹕convento-penha",
+              "type": "text",
+              "position": 337,
+              "topic": null
+            },
+            {
+              "name": "│・📩〃﹕email",
+              "type": "text",
+              "position": 76,
+              "topic": ""
+            },
+            {
+              "name": "│・🗂〃﹕molde-policial",
+              "type": "text",
+              "position": 27,
+              "topic": null
+            },
+            {
+              "name": "│・⛩〃﹕casa-artesão",
+              "type": "text",
+              "position": 245,
+              "topic": null
+            },
+            {
+              "name": "╰・🏖〃﹕praia-boa-viagem",
+              "type": "text",
+              "position": 423,
+              "topic": null
+            },
+            {
+              "name": "╰・🩸〃﹕sugestões",
+              "type": "text",
+              "position": 61,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕casa-onze-janelas",
+              "type": "text",
+              "position": 387,
+              "topic": null
+            },
+            {
+              "name": "│・🌊〃﹕lago-apampulha",
+              "type": "text",
+              "position": 200,
+              "topic": null
+            },
+            {
+              "name": "╭・🏖〃﹕maragogi",
+              "type": "text",
+              "position": 282,
+              "topic": ""
+            },
+            {
+              "name": "「🌁」 │ ๖̶̶̶ζ͜͡SÃO PAULO",
+              "type": "category",
+              "position": 12
+            },
+            {
+              "name": "╰・🌀〃﹕auto-roles",
+              "type": "text",
+              "position": 14,
+              "topic": null
+            },
+            {
+              "name": "╰・💰〃﹕pagamentos",
+              "type": "text",
+              "position": 82,
+              "topic": ""
+            },
+            {
+              "name": "│・🌳〃﹕parque-massairo",
+              "type": "text",
+              "position": 246,
+              "topic": null
+            },
+            {
+              "name": "│・🇪🇪〃﹕ct-gremio",
+              "type": "text",
+              "position": 154,
+              "topic": null
+            },
+            {
+              "name": "│・🏦〃﹕verbas-time",
+              "type": "text",
+              "position": 85,
+              "topic": null
+            },
+            {
+              "name": "│・🏬〃﹕elevadorlacerda",
+              "type": "text",
+              "position": 228,
+              "topic": null
+            },
+            {
+              "name": "│・🏔〃﹕chapada-veadeiros",
+              "type": "text",
+              "position": 349,
+              "topic": null
+            },
+            {
+              "name": "│・🏟〃﹕estadio-heribertohlse",
+              "type": "text",
+              "position": 150,
+              "topic": null
+            },
+            {
+              "name": "╰・🎨〃﹕museu-arte-es",
+              "type": "text",
+              "position": 346,
+              "topic": null
+            },
+            {
+              "name": "╰・🎨〃﹕feira-hippie",
+              "type": "text",
+              "position": 357,
+              "topic": null
+            },
+            {
+              "name": "│・🐠〃﹕bonito",
+              "type": "text",
+              "position": 371,
+              "topic": null
+            },
+            {
+              "name": "│・🌸〃﹕rua-flores",
+              "type": "text",
+              "position": 254,
+              "topic": ""
+            },
+            {
+              "name": "│・🔹〃﹕trapiche-eliezer-levy",
+              "type": "text",
+              "position": 301,
+              "topic": null
+            },
+            {
+              "name": "│・🏆〃﹕copa-do-mundo",
+              "type": "text",
+              "position": 110,
+              "topic": null
+            },
+            {
+              "name": "「⛪」 │ ๖̶̶̶ζ͜͡ESPIRITO SANTO",
+              "type": "category",
+              "position": 28
+            },
+            {
+              "name": "moderator-only",
+              "type": "text",
+              "position": 0,
+              "topic": null
+            },
+            {
+              "name": "│・🏜〃﹕lencois-maranhenses",
+              "type": "text",
+              "position": 360,
+              "topic": null
+            },
+            {
+              "name": "│・🌸〃﹕rua-flores",
+              "type": "text",
+              "position": 408,
+              "topic": null
+            },
+            {
+              "name": "│・💙〃﹕gruta-lago-azul",
+              "type": "text",
+              "position": 373,
+              "topic": null
+            },
+            {
+              "name": "│・🔹〃﹕❖━━━━━━━━━━━━━━❖",
+              "type": "text",
+              "position": 303,
+              "topic": null
+            },
+            {
+              "name": "「💦」 │ ๖̶̶̶ζ͜͡PARANA",
+              "type": "category",
+              "position": 34
+            },
+            {
+              "name": "╰・🌳〃﹕bosque-rodrigues-alves",
+              "type": "text",
+              "position": 390,
+              "topic": null
+            },
+            {
+              "name": "│・🏛〃﹕centro-historico-joao-pessoa",
+              "type": "text",
+              "position": 393,
+              "topic": null
+            }
+          ],
+          "roles": [
+            {
+              "name": "The Fallen",
+              "color": "#000000",
+              "position": 1,
+              "permissions": 8
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 86﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 2,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 85﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 3,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 84﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 4,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 83﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 5,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 82﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 6,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 81﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 7,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 8 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 8,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 80﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 9,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 79﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 10,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 78﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 11,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 77﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 12,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 76﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 13,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 75﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 14,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 74﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 15,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 73﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 16,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 72﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 17,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 71﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 18,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 7 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 19,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 70﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 20,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 69﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 21,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 68﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 22,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 67﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 23,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 66﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 24,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 65﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 25,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 64﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 26,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 63﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 27,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 62﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 28,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 61﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 29,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 6 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 30,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 60﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 31,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 59﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 32,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 58﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 33,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 57﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 34,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 56﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 35,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 55﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 36,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 54﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 37,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 53﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 38,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 52﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 39,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 51﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 40,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 5 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 41,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 50﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 42,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 49﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 43,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 48﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 44,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 47﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 45,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 46﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 46,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 45﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 47,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 44﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 48,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 43﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 49,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 42﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 50,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 41﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 51,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 4 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 52,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 40﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 53,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 39﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 54,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 38﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 55,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 37﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 56,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 36﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 57,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 35﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 58,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 34﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 59,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 33﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 60,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 32﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 61,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 31﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 62,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 3 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 63,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 30﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 64,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 29﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 65,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 28﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 66,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 27﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 67,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 26﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 68,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 25﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 69,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 24﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 70,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 23﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 71,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 22﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 72,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 21﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 73,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 2 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 74,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 20﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 75,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 19﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 76,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 18﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 77,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 17﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 78,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 16﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 79,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 15﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 80,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 14﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 81,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 13﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 82,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 12﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 83,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 11﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 84,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 1 》━━━━━━━",
+              "color": "#ffd700",
+              "position": 85,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 10﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 86,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 9﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 87,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 8﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 88,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 7﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 89,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒cargo 6﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 90,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 divisão 》━━━━━━━",
+              "color": "#000000",
+              "position": 91,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒5 fintas﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 92,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒4 fintas﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 93,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒3 fintas﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 94,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒2 fintas﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 95,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒+ ⟢﹒1 finta﹒⇆﹒",
+              "color": "#00ff88",
+              "position": 96,
+              "permissions": 0
+            },
+            {
+              "name": "━━━━━━━《 fintas 》━━━━━━━",
+              "color": "#000000",
+              "position": 97,
+              "permissions": 0
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 98,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 99,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 100,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 101,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 102,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 103,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 104,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 105,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 106,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 107,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 108,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 109,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 110,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 111,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 112,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 113,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 114,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 115,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 116,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 117,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 118,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 119,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 120,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 121,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 122,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 123,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 124,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 125,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 126,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 127,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 128,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 129,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 130,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 131,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 132,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 133,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 134,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 135,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 136,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 137,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 138,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 139,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 140,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 141,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 142,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 143,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 144,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "Chute Curvo",
+              "color": "#000000",
+              "position": 145,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "5 fintas",
+              "color": "#000000",
+              "position": 146,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "Heterossexual",
+              "color": "#000000",
+              "position": 147,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒👣 ⟢﹒Ambidestro﹒⇆﹒",
+              "color": "#ffffff",
+              "position": 148,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦵 ⟢﹒Perna Esquerda﹒⇆﹒",
+              "color": "#181616",
+              "position": 149,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦵 ⟢﹒Perna Direita﹒⇆﹒",
+              "color": "#1d1a1a",
+              "position": 150,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Perna 》━━━━━━━",
+              "color": "#000000",
+              "position": 151,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒💸 ⟢﹒Blaze﹒⇆﹒",
+              "color": "#904850",
+              "position": 152,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒💳 ⟢﹒Betano﹒⇆﹒",
+              "color": "#ff7919",
+              "position": 153,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🥤 ⟢﹒Coca-Cola﹒⇆﹒",
+              "color": "#ff0808",
+              "position": 154,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇳🇪 ⟢﹒New Balance﹒⇆﹒",
+              "color": "#080808",
+              "position": 155,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🔗 ⟢﹒Oakley﹒⇆﹒",
+              "color": "#423e3e",
+              "position": 156,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🎲 ⟢﹒Umbro﹒⇆﹒",
+              "color": "#b0a6c9",
+              "position": 157,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🇬🇬 ⟢﹒Gucci﹒⇆﹒",
+              "color": "#8f612a",
+              "position": 158,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🐊 ⟢﹒Lacoste﹒⇆﹒",
+              "color": "#1f8b4c",
+              "position": 159,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🥤 ⟢﹒Pepsi﹒⇆﹒",
+              "color": "#1b1ff6",
+              "position": 160,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒👥 ⟢﹒Kappa﹒⇆﹒",
+              "color": "#b93434",
+              "position": 161,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒👟⟢﹒Topper﹒⇆﹒",
+              "color": "#8cffc0",
+              "position": 162,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒⚽ ⟢﹒Penalty﹒⇆﹒",
+              "color": "#436831",
+              "position": 163,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🔩 ⟢﹒Mizuno﹒⇆﹒",
+              "color": "#3d6574",
+              "position": 164,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒♣️ ⟢﹒Adidas﹒⇆﹒",
+              "color": "#ffffff",
+              "position": 165,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🐆 ⟢﹒Puma﹒⇆﹒",
+              "color": "#888888",
+              "position": 166,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🎰⟢﹒Nike﹒⇆﹒",
+              "color": "#130c0c",
+              "position": 167,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Patrocinador 》━━━━━━━",
+              "color": "#000000",
+              "position": 168,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🧤 ⟢﹒Goleiro﹒⇆﹒",
+              "color": "#ffffff",
+              "position": 169,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🧱 ⟢﹒Zagueiro﹒⇆﹒",
+              "color": "#c98561",
+              "position": 170,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🛡 ⟢﹒Volante﹒⇆﹒",
+              "color": "#e91e63",
+              "position": 171,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒👟 ⟢﹒Meio Campo﹒⇆﹒",
+              "color": "#a4e2a5",
+              "position": 172,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🥏 ⟢﹒Ponta﹒⇆﹒",
+              "color": "#4038ad",
+              "position": 173,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒⚽ ⟢﹒Atacante﹒⇆﹒",
+              "color": "#1f1b1b",
+              "position": 174,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Posição 》━━━━━━━",
+              "color": "#000000",
+              "position": 175,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇷🇺 ⟢﹒Rússia﹒⇆﹒",
+              "color": "#eb0000",
+              "position": 176,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇫🇷⟢﹒França﹒⇆﹒",
+              "color": "#052336",
+              "position": 177,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇳🇬 ⟢﹒Nigéria﹒⇆﹒",
+              "color": "#528850",
+              "position": 178,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇯🇵 ⟢﹒Japão﹒⇆﹒",
+              "color": "#ffffff",
+              "position": 179,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇺🇸 ⟢﹒Estados Unidos﹒⇆﹒",
+              "color": "#162e7a",
+              "position": 180,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇩🇪 ⟢﹒Alemanha﹒⇆﹒",
+              "color": "#140404",
+              "position": 181,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇪🇸 ⟢﹒Espanha﹒⇆﹒",
+              "color": "#c58146",
+              "position": 182,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇵🇹 ⟢﹒Portugal﹒⇆﹒",
+              "color": "#6d2323",
+              "position": 183,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇦🇷 ⟢﹒Argentina﹒⇆﹒",
+              "color": "#58bec7",
+              "position": 184,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🇧🇷 ⟢﹒Brasil﹒⇆﹒",
+              "color": "#d4ce57",
+              "position": 185,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Nacionalidades 》━━━━━━━",
+              "color": "#000000",
+              "position": 186,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒💊 ⟢﹒Médico﹒⇆﹒",
+              "color": "#ec1717",
+              "position": 187,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🚓 ⟢﹒Policial﹒⇆﹒",
+              "color": "#0035ff",
+              "position": 188,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🎴 ⟢﹒Juiz﹒⇆﹒",
+              "color": "#d8db0f",
+              "position": 189,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🎩 ⟢﹒Técnico﹒⇆﹒",
+              "color": "#ffffff",
+              "position": 190,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒📺 ⟢﹒Repórter﹒⇆﹒",
+              "color": "#998181",
+              "position": 191,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒📱⟢﹒Influencer﹒⇆﹒",
+              "color": "#e91e63",
+              "position": 192,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒⚽ ⟢﹒Jogador﹒⇆﹒",
+              "color": "#070606",
+              "position": 193,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒⚽ ⟢﹒Presidente de Clube﹒⇆﹒",
+              "color": "#0c0b0b",
+              "position": 194,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Profissão 》━━━━━━━",
+              "color": "#000000",
+              "position": 195,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒❌ ⟢﹒Sem Ficha﹒⇆﹒",
+              "color": "#5f150d",
+              "position": 196,
+              "permissions": 2239643012943425
+            },
+            {
+              "name": "⊂⊃﹒✅ ⟢﹒Com Ficha﹒⇆﹒",
+              "color": "#2ecc71",
+              "position": 197,
+              "permissions": 2239643012943425
+            },
+            {
+              "name": "━━━━━━━《 Situação 》━━━━━━━",
+              "color": "#000000",
+              "position": 198,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒⛵ ⟢Vasco da Gama﹒⇆﹒",
+              "color": "#b8b5b5",
+              "position": 199,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🎩 ⟢﹒Fluminense﹒⇆﹒",
+              "color": "#643d3d",
+              "position": 200,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🐯 ⟢﹒Criciúma﹒⇆﹒",
+              "color": "#c2b32e",
+              "position": 201,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🧓 ⟢﹒Ceará﹒⇆﹒",
+              "color": "#0e0000",
+              "position": 202,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦊 ⟢﹒Cruzeiro﹒⇆﹒",
+              "color": "#003ca5",
+              "position": 203,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦩 ⟢﹒Flamengo﹒⇆﹒",
+              "color": "#a54040",
+              "position": 204,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🦁 ⟢﹒Fortaleza﹒⇆﹒",
+              "color": "#567786",
+              "position": 205,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦸‍♂️ ⟢﹒Bahia﹒⇆﹒",
+              "color": "#0b126d",
+              "position": 206,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🐓 ⟢﹒Atlético Mineiro﹒⇆﹒",
+              "color": "#4d4747",
+              "position": 207,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🌪 ⟢﹒Athletico Paranaense﹒⇆﹒",
+              "color": "#7c3232",
+              "position": 208,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🧔🏻 ⟢﹒Grêmio﹒⇆﹒",
+              "color": "#0074ff",
+              "position": 209,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🎅🏾 ⟢﹒Internacional﹒⇆﹒",
+              "color": "#ff0000",
+              "position": 210,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🔰 ⟢﹒Cuiabá﹒⇆﹒",
+              "color": "#e9d23c",
+              "position": 211,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🐷 ⟢﹒Palmeiras﹒⇆﹒",
+              "color": "#308838",
+              "position": 212,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🔥 ⟢﹒Botafogo﹒⇆﹒",
+              "color": "#131111",
+              "position": 213,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🦁 ⟢﹒EC Vitória﹒⇆﹒",
+              "color": "#4e0303",
+              "position": 214,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🐂 ⟢﹒RB Bragantino﹒⇆﹒",
+              "color": "#f67d7d",
+              "position": 215,
+              "permissions": 0
+            },
+            {
+              "name": "⊂⊃﹒🐟⟢﹒Santos﹒⇆﹒",
+              "color": "#42c5d6",
+              "position": 216,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒👴 ⟢﹒São Paulo﹒⇆﹒",
+              "color": "#d41111",
+              "position": 217,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🦅 ⟢﹒Corinthians﹒⇆﹒",
+              "color": "#f8f8f9",
+              "position": 218,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Times 》━━━━━━━",
+              "color": "#000000",
+              "position": 219,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "⊂⊃﹒🚀 ⟢﹒Booster﹒⇆﹒",
+              "color": "#ff1635",
+              "position": 220,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "━━━━━━━《 Buffs 》━━━━━━━",
+              "color": "#000000",
+              "position": 221,
+              "permissions": 0
+            },
+            {
+              "name": "Suporte",
+              "color": "#e4b400",
+              "position": 222,
+              "permissions": 2222051095334465
+            },
+            {
+              "name": "Developers",
+              "color": "#5878d3",
+              "position": 223,
+              "permissions": 8
+            },
+            {
+              "name": "Gyrus Burguer",
+              "color": "#000000",
+              "position": 224,
+              "permissions": 8
+            },
+            {
+              "name": "Giveaway Boat",
+              "color": "#000000",
+              "position": 225,
+              "permissions": 395405814849
+            },
+            {
+              "name": "Nekotina",
+              "color": "#000000",
+              "position": 226,
+              "permissions": 399431429375
+            },
+            {
+              "name": "Akinator",
+              "color": "#000000",
+              "position": 227,
+              "permissions": 563036658166872
+            },
+            {
+              "name": "Tupperbox",
+              "color": "#000000",
+              "position": 228,
+              "permissions": 275415166016
+            },
+            {
+              "name": "Dyno",
+              "color": "#000000",
+              "position": 229,
+              "permissions": 1513962695871
+            },
+            {
+              "name": "ProBot ✨",
+              "color": "#000000",
+              "position": 230,
+              "permissions": 2080374975
+            },
+            {
+              "name": "new role",
+              "color": "#000000",
+              "position": 231,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "DreamTeam",
+              "color": "#000000",
+              "position": 232,
+              "permissions": 92360
+            },
+            {
+              "name": "Arcane",
+              "color": "#000000",
+              "position": 233,
+              "permissions": 1495521290494
+            },
+            {
+              "name": "SlashBot",
+              "color": "#000000",
+              "position": 234,
+              "permissions": 397150776438
+            },
+            {
+              "name": "Embed Generator",
+              "color": "#000000",
+              "position": 235,
+              "permissions": 536871936
+            },
+            {
+              "name": "Koya",
+              "color": "#000000",
+              "position": 236,
+              "permissions": 590983204433143
+            },
+            {
+              "name": "rollem",
+              "color": "#000000",
+              "position": 237,
+              "permissions": 377957451776
+            },
+            {
+              "name": "Ginga",
+              "color": "#000000",
+              "position": 238,
+              "permissions": 322704
+            },
+            {
+              "name": "NotSoBot",
+              "color": "#000000",
+              "position": 239,
+              "permissions": 1513941757183
+            },
+            {
+              "name": "MEE6",
+              "color": "#000000",
+              "position": 240,
+              "permissions": 364870364415
+            },
+            {
+              "name": "UnbelievaBoat",
+              "color": "#000000",
+              "position": 241,
+              "permissions": 8
+            },
+            {
+              "name": "carl-bot",
+              "color": "#000000",
+              "position": 242,
+              "permissions": 573242775563510
+            },
+            {
+              "name": "Subs",
+              "color": "#99aab5",
+              "position": 243,
+              "permissions": 8
+            },
+            {
+              "name": "Jockie Music",
+              "color": "#000000",
+              "position": 244,
+              "permissions": 8
+            },
+            {
+              "name": "By: Yev",
+              "color": "#ff0000",
+              "position": 245,
+              "permissions": 2222050826899009
+            },
+            {
+              "name": "Vados",
+              "color": "#eb3aee",
+              "position": 246,
+              "permissions": 8
+            },
+            {
+              "name": "MXP Automoderação",
+              "color": "#000000",
+              "position": 247,
+              "permissions": 8
+            },
+            {
+              "name": "Fundador",
+              "color": "#080501",
+              "position": 248,
+              "permissions": 0
+            }
+          ],
+          "members_count": 60
+        }
+      ]
+    }
+  }
+}
