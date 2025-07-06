@@ -1,4 +1,8 @@
 discord.py
+fuzzywuzzy
+python-Levenshtein 
+requests
 aiofiles
+aiohttp
 python-dotenv
 Flask
